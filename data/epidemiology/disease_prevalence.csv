@@ -1,0 +1,57 @@
+disease_id,region,prevalence_per_100k,year
+D001,South Asia,85.5,2024
+D001,Southeast Asia,120.2,2024
+D001,Latin America,92.1,2024
+D002,Global,4500.0,2024
+D003,North America,9500.0,2024
+D003,Middle East,12500.0,2024
+D003,Europe,6800.0,2024
+D004,North America,32000.0,2024
+D004,Europe,28000.0,2024
+D004,East Asia,35000.0,2024
+D005,Europe,7.5,2024
+D005,North America,6.8,2024
+D006,Sub-Saharan Africa,2500.0,2024
+D006,South Asia,150.0,2024
+D007,Sub-Saharan Africa,1200.0,2024
+D007,North America,25.0,2024
+D008,North America,8400.0,2024
+D008,Oceania,11000.0,2024
+D009,Southeast Asia,195.0,2024
+D009,Sub-Saharan Africa,230.0,2024
+D010,Europe,1200.0,2024
+D010,North America,1100.0,2024
+D012,North America,600.0,2024
+D013,Global,6500.0,2024
+D017,Global,1500.0,2024
+D021,North America (Northeast),350.0,2024
+D021,Central Europe,120.0,2024
+D022,Sub-Saharan Africa,45.0,2024
+D022,South Asia,30.0,2024
+D029,West Pacific,6200.0,2024
+D029,Africa,5800.0,2024
+D031,Sub-Saharan Africa,3200.0,2024
+D031,Global,480.0,2024
+D040,South Asia,450.0,2024
+D043,Africa,18000.0,2024
+D044,Global,25000.0,2024
+D045,Global,10.0,2024
+D050,Mediterranean,150.0,2024
+D050,Southeast Asia,200.0,2024
+D051,North America,6000.0,2024
+D058,Europe,15000.0,2024
+D064,Global,9000.0,2024
+D066,Global,1200.0,2024
+D072,Global,11000.0,2024
+D076,North America,125.0,2024
+D076,Europe,110.0,2024
+D077,East Asia,65.0,2024
+D077,North America,55.0,2024
+D087,Global,10000.0,2024
+D089,Global,500.0,2024
+D090,Sub-Saharan Africa,20.0,2024
+D092,East Asia,85000.0,2024
+D092,North America,25000.0,2024
+D094,South America,5.0,2024
+D094,Africa,15.0,2024
+D100,North America,4000.0,2024

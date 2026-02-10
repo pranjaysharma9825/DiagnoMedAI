@@ -1,0 +1,36 @@
+test_id,name,category,cost_usd,turnaround_hours,sensitivity,specificity,diseases_detected
+T001,NS1 Antigen Test,Blood,25.00,4,0.90,0.95,D001
+T002,HbA1c Test,Blood,15.00,24,0.85,0.92,D003
+T003,Sweat Chloride Test,Diagnostic,150.00,48,0.98,0.99,D005
+T004,Spirometry,Respiratory,80.00,1,0.70,0.85,"D008,D051"
+T005,Rapid Flu Test,Swab,30.00,0.5,0.70,0.95,D002
+T006,Sputum Culture,Microbiology,45.00,72,0.85,0.98,"D009,D017"
+T007,MRI Brain,Imaging,1200.00,48,0.92,0.88,"D010,D011,D024,D081"
+T008,Blood Glucose Fasting,Blood,10.00,12,0.82,0.88,D003
+T009,Anti-CCP Antibody,Serology,60.00,48,0.80,0.95,D012
+T010,Cardiac Troponin,Blood,50.00,1,0.94,0.90,D013
+T011,Upper Endoscopy,Imaging,800.00,2,0.95,0.92,"D014,D015,D069"
+T012,TSH Level,Endocrine,25.00,24,0.96,0.94,"D016,D056,D057"
+T013,Chest X-Ray,Imaging,100.00,1,0.75,0.80,"D009,D017,D051,D077"
+T014,Lyme Western Blot,Serology,120.00,120,0.92,0.97,D021
+T015,Stool Culture,Microbiology,40.00,48,0.88,0.95,"D022,D040"
+T016,Serum Uric Acid,Blood,20.00,12,0.85,0.80,D023
+T017,EEG,Neurological,300.00,2,0.70,0.90,D025
+T018,ANA Screen,Serology,75.00,48,0.95,0.60,"D028,D096,D098"
+T019,HBsAg Test,Blood,20.00,24,0.98,0.99,D029
+T020,HCV Antibody,Blood,30.00,24,0.97,0.98,D030
+T021,HIV 4th Gen ELISA,Blood,40.00,24,0.99,0.99,D031
+T022,PCR Zika,Blood,150.00,72,0.90,0.99,D032
+T023,Ebola RT-PCR,Blood,200.00,12,0.99,0.99,D033
+T024,CBC with Differential,Blood,20.00,4,0.70,0.60,"D044,D079,D089"
+T025,Genetic Testing (HBB),Genomic,400.00,336,0.99,0.99,"D007,D050"
+T026,Polysomnography,Diagnostic,900.00,24,0.92,0.85,D052
+T027,DEXA Scan,Imaging,150.00,1,0.88,0.90,D058
+T028,Intraocular Pressure,Ophthalmological,30.00,0.5,0.85,0.80,D061
+T029,Serum Creatinine,Renal,15.00,4,0.75,0.85,"D064,D065"
+T030,Liver Function Test,Blood,35.00,12,0.80,0.85,"D029,D030,D066"
+T031,Colonoscopy,Imaging,1000.00,3,0.96,0.98,"D015,D068"
+T032,Skin Biopsy,Dermatological,250.00,120,0.98,0.99,"D075,D098"
+T033,Mammogram,Imaging,150.00,1,0.87,0.89,D076
+T034,PSA Test,Blood,40.00,24,0.70,0.75,D078
+T035,Lumbar Puncture,Diagnostic,450.00,6,0.95,0.98,"D090,D091"

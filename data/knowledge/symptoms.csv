@@ -1,0 +1,51 @@
+symptom_id,name,category,synonyms
+S001,High Fever,Systemic,"pyrexia, high temperature, febrile"
+S002,Joint Pain,Musculoskeletal,"arthralgia, stiff joints, aching joints"
+S003,Polydipsia,Metabolic,"excessive thirst, increased water intake"
+S004,Shortness of Breath,Respiratory,"dyspnea, air hunger, breathlessness"
+S005,Fatigue,Systemic,"tiredness, lethargy, malaise, exhaustion"
+S006,Wheezing,Respiratory,"whistling breath, stridor"
+S007,Chronic Cough,Respiratory,"persistent cough, dry cough, hacking cough"
+S008,Chest Pain,Cardiovascular,"angina, chest tightness, thoracic pain"
+S009,Memory Loss,Neurological,"amnesia, cognitive decline, forgetfulness"
+S010,Muscle Weakness,Neurological,"hypotonia, loss of strength"
+S011,Nausea,Gastrointestinal,"feeling sick, queasiness"
+S012,Vomiting,Gastrointestinal,"emesis, throwing up"
+S013,Abdominal Pain,Gastrointestinal,"stomach ache, belly pain, cramps"
+S014,Jaundice,Hepatic,"yellowing of skin, yellow eyes, icterus"
+S015,Polyuria,Metabolic,"frequent urination, excessive urination"
+S016,Blurred Vision,Ophthalmological,"vision loss, hazy vision"
+S017,Skin Rash,Dermatological,"exanthema, skin eruption, hives"
+S018,Dizziness,Neurological,"vertigo, lightheadedness, unsteadiness"
+S019,Tremor,Neurological,"shaking, hand tremors"
+S020,Seizures,Neurological,"convulsions, fits, epilepsy episodes"
+S021,Weight Loss (Unintentional),Metabolic,"dropping weight, wasting"
+S022,Night Sweats,Systemic,"sleep hyperhidrosis, nocturnal sweating"
+S023,Blood in Stool,Gastrointestinal,"hematochezia, melena"
+S024,Hemoptysis,Respiratory,coughing up blood
+S025,Edema,Cardiovascular,"swelling, fluid retention, bloating"
+S026,Bradycardia,Cardiovascular,"slow heart rate, slow pulse"
+S027,Tachycardia,Cardiovascular,"rapid heart rate, palpitations"
+S028,Paresthesia,Neurological,"tingling, pins and needles, numbness"
+S029,Dysphagia,Gastrointestinal,difficulty swallowing
+S030,Hematuria,Renal,blood in urine
+S031,Photophobia,Neurological,light sensitivity
+S032,Stiff Neck,Neurological,nuchal rigidity
+S033,Diarrhea,Gastrointestinal,"loose stools, watery stools"
+S034,Constipation,Gastrointestinal,difficulty passing stool
+S035,Pruritus,Dermatological,"itching, itchy skin"
+S036,Amenorrhea,Gynecological,"missed periods, absent menstruation"
+S037,Hirsutism,Endocrine,excessive hair growth
+S038,Hypoglycemia,Metabolic,low blood sugar
+S039,Ataxia,Neurological,"loss of coordination, clumsiness"
+S040,Cyanosis,Cardiovascular,"blue skin, lack of oxygen"
+S041,Aphasia,Neurological,"difficulty speaking, loss of speech"
+S042,Insomnia,Neurological,"sleeplessness, inability to sleep"
+S043,Anorexia,Metabolic,loss of appetite
+S044,Epistaxis,Respiratory,nosebleed
+S045,Lymphadenopathy,Systemic,"swollen lymph nodes, swollen glands"
+S046,Myalgia,Musculoskeletal,"muscle pain, body aches"
+S047,Syncope,Cardiovascular,"fainting, passing out"
+S048,Diplopia,Ophthalmological,double vision
+S049,Tinnitus,Neurological,ringing in ears
+S050,Hyperreflexia,Neurological,overactive reflexes

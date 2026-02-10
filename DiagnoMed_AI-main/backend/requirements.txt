@@ -1,0 +1,9 @@
+flask
+flask_sqlalchemy
+flask_cors
+psycopg2-binary
+python-dotenv
+werkzeug
+gunicorn
+gradio_client
+requests

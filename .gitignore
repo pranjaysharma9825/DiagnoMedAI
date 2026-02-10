@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+*.egg-info/
+
+# Environment (IMPORTANT: contains API keys)
+.env
+.env.local
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / Frontend
+DiagnoMed_AI-main/node_modules/
+DiagnoMed_AI-main/dist/
+DiagnoMed_AI-main/.vite/
+
+# Large files
+models/*.h5
+models/*.pkl
+models/*.pt
+*.docx
+
+# Misc
+.gemini/
+static/
+vector_store/

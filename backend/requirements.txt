@@ -1,0 +1,27 @@
+# Core
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# LLM & Orchestration
+langchain>=0.1.0
+langgraph>=0.0.15
+langchain-google-genai>=0.0.6
+langchain-groq>=0.0.1
+langchain-community>=0.0.20
+
+# Vector DB & Embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# Data Processing
+numpy>=1.26.0
+pandas>=2.1.0
+
+# HTTP Client
+httpx>=0.26.0
+aiohttp>=3.9.0
+
+# Logging
+loguru>=0.7.2

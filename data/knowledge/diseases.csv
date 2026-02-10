@@ -1,0 +1,101 @@
+disease_id,name,icd10_code,category,severity,description,typical_duration_days
+D001,Dengue Fever,A90,Infectious,4,Mosquito-borne viral infection causing high fever and joint pain.,10
+D002,Influenza,J10,Infectious,2,Acute respiratory infection caused by influenza viruses.,7
+D003,Type 2 Diabetes,E11,Metabolic,3,Chronic condition affecting how the body processes blood sugar.,-1
+D004,Hypertension,I10,Cardiovascular,3,High blood pressure that can lead to severe complications.,-1
+D005,Cystic Fibrosis,E84,Genetic,5,Genetic disorder affecting the lungs and digestive system.,-1
+D006,Malaria,B50,Infectious,4,Parasitic infection transmitted by Anopheles mosquitoes.,14
+D007,Sickle Cell Anemia,D57,Genetic,4,Inherited red blood cell disorder.,-1
+D008,Asthma,J45,Respiratory,2,Chronic inflammation of the airways.,-1
+D009,Tuberculosis,A15,Infectious,4,Bacterial infection primarily affecting the lungs.,180
+D010,Alzheimer's Disease,G30,Neurological,5,Progressive neurodegenerative disease causing memory loss.,-1
+D011,Multiple Sclerosis,G35,Autoimmune,4,Disease where the immune system eats away at the nerves.,-1
+D012,Rheumatoid Arthritis,M05,Autoimmune,3,Chronic inflammatory disorder affecting joints.,-1
+D013,Coronary Artery Disease,I25,Cardiovascular,4,Narrowing of the coronary arteries.,-1
+D014,Gastroesophageal Reflux Disease,K21,Gastrointestinal,2,Digestive disorder affecting the lower esophageal sphincter.,-1
+D015,Crohn's Disease,K50,Autoimmune,4,Type of inflammatory bowel disease.,-1
+D016,Hypothyroidism,E03,Endocrine,2,Condition where the thyroid gland is underactive.,-1
+D017,Pneumonia,J18,Infectious,4,Infection that inflames air sacs in one or both lungs.,14
+D018,Migraine,G43,Neurological,2,Recurrent throbbing headache typically affecting one side.,3
+D019,Psoriasis,L40,Autoimmune,2,Skin cells build up and form scales and itchy dry patches.,-1
+D020,Celiac Disease,K90,Autoimmune,3,Immune reaction to eating gluten.,-1
+D021,Lyme Disease,A69.3,Infectious,3,Tick-borne illness caused by Borrelia burgdorferi.,21
+D022,Cholera,A00,Infectious,5,Acute diarrheal infection caused by ingestion of contaminated food.,5
+D023,Gout,M10,Metabolic,3,Form of arthritis characterized by severe pain and redness.,7
+D024,Parkinson's Disease,G20,Neurological,4,Disorder of the central nervous system affecting movement.,-1
+D025,Epilepsy,G40,Neurological,3,Disorder in which nerve cell activity in brain is disturbed.,-1
+D026,Schizophrenia,F20,Psychiatric,5,Serious mental disorder affecting how a person thinks.,-1
+D027,Bipolar Disorder,F31,Psychiatric,4,Disorder associated with episodes of mood swings.,-1
+D028,Systemic Lupus Erythematosus,M32,Autoimmune,4,Immune system attacks its own tissues.,-1
+D029,Hepatitis B,B16,Infectious,4,Severe liver infection caused by the HBV virus.,-1
+D030,Hepatitis C,B17.1,Infectious,4,Viral infection that causes liver inflammation.,-1
+D031,HIV/AIDS,B20,Infectious,5,Interferes with the body's ability to fight infection.,-1
+D032,Zika Virus,A92.5,Infectious,2,Mosquito-borne virus; risk to fetal development.,10
+D033,Ebola Virus Disease,A98.4,Infectious,5,Severe, often fatal illness in humans.,21
+D034,Measles,B05,Infectious,3,Highly contagious infectious disease caused by virus.,12
+D035,Mumps,B26,Infectious,2,Viral infection that affects salivary glands.,14
+D036,Rubella,B06,Infectious,2,Contagious viral infection best known by its red rash.,10
+D037,Pertussis,A37,Infectious,3,Highly contagious respiratory tract infection.,42
+D038,Tetanus,A35,Infectious,5,Serious bacterial infection causing painful muscle spasms.,30
+D039,Diphtheria,A36,Infectious,4,Serious infection of the nose and throat.,14
+D040,Typhoid Fever,A01,Infectious,4,Bacterial infection caused by Salmonella typhi.,21
+D041,Leishmaniasis,B55,Infectious,4,Parasitic disease found in parts of the tropics.,60
+D042,Trypanosomiasis,B56,Infectious,5,African sleeping sickness transmitted by tsetse flies.,120
+D043,Schistosomiasis,B65,Infectious,3,Disease caused by parasitic flatworms.,-1
+D044,Anemia (Iron Deficiency),D50,Metabolic,2,Condition lacking enough healthy red blood cells.,60
+D045,Hemophilia A,D66,Genetic,4,Genetic disorder where blood doesn't clot normally.,-1
+D046,Huntington's Disease,G10,Genetic,5,Inherited condition causing nerve cells in brain to break down.,-1
+D047,Down Syndrome,Q90,Genetic,3,Genetic chromosome 21 disorder.,-1
+D048,Marfan Syndrome,Q87.4,Genetic,3,Disorder that affects connective tissue.,-1
+D049,Tay-Sachs Disease,E75.0,Genetic,5,Rare disorder that destroys nerve cells in the brain.,-1
+D050,Thalassemia,D56,Genetic,4,Blood disorder involving less oxygen-carrying protein.,-1
+D051,COPD,J44,Respiratory,4,Chronic inflammatory lung disease that obstructs airflow.,-1
+D052,Sleep Apnea,G47.3,Respiratory,3,Sleep disorder where breathing repeatedly starts and stops.,-1
+D053,Pulmonary Fibrosis,J84.1,Respiratory,5,Lung disease that occurs when lung tissue becomes damaged.,-1
+D054,Cushing's Syndrome,E24,Endocrine,4,Condition from exposure to high cortisol levels.,-1
+D055,Addison's Disease,E27.1,Endocrine,4,Adrenal glands don't produce enough hormones.,-1
+D056,Graves' Disease,E05.0,Endocrine,3,Immune system disorder resulting in overproduction of thyroid.,-1
+D057,Hashimoto's Thyroiditis,E06.3,Endocrine,2,Immune system attacks the thyroid.,-1
+D058,Osteoporosis,M81,Skeletal,3,Condition in which bones become weak and brittle.,-1
+D059,Osteoarthritis,M15,Skeletal,2,Type of arthritis when flexible tissue at ends of bones wears down.,-1
+D060,Scoliosis,M41,Skeletal,2,Sideways curvature of the spine.,-1
+D061,Glaucoma,H40,Ophthalmological,4,Group of eye conditions that damage the optic nerve.,-1
+D062,Cataracts,H25,Ophthalmological,2,Clouding of the normally clear lens of the eye.,-1
+D063,Macular Degeneration,H35.3,Ophthalmological,3,Eye disease that causes vision loss.,-1
+D064,Chronic Kidney Disease,N18,Renal,4,Gradual loss of kidney function over time.,-1
+D065,Polycystic Kidney Disease,Q61.3,Genetic,4,Genetic disorder causing cysts to grow in kidneys.,-1
+D066,Cirrhosis,K74.6,Hepatic,5,Late stage of scarring of the liver.,-1
+D067,Pancreatitis (Chronic),K86.1,Gastrointestinal,4,Inflammation of the pancreas.,-1
+D068,Ulcerative Colitis,K51,Autoimmune,4,Inflammatory bowel disease causing sores in digestive tract.,-1
+D069,Peptic Ulcer,K27,Gastrointestinal,3,Sores that develop on the lining of the stomach.,30
+D070,Appendicitis,K35,Gastrointestinal,4,Inflammation of the appendix.,7
+D071,Diverticulitis,K57,Gastrointestinal,3,Inflammation or infection of small pouches in digestive tract.,14
+D072,Eczema,L30.9,Dermatological,2,Condition that makes skin red and itchy.,-1
+D073,Vitiligo,L80,Dermatological,1,Loss of skin pigment in patches.,-1
+D074,Alopecia Areata,L63,Autoimmune,1,Sudden hair loss that starts with one or more circular patches.,-1
+D075,Melanoma,C43,Oncology,5,The most serious type of skin cancer.,-1
+D076,Breast Cancer,C50,Oncology,5,Cancer that forms in the cells of the breasts.,-1
+D077,Lung Cancer,C34,Oncology,5,Cancer that begins in the lungs.,-1
+D078,Prostate Cancer,C61,Oncology,4,Cancer in a man's prostate.,-1
+D079,Leukemia,C91,Oncology,5,Cancer of blood-forming tissues.,-1
+D080,Lymphoma,C81,Oncology,5,Cancer of the lymphatic system.,-1
+D081,Amyotrophic Lateral Sclerosis,G12.2,Neurological,5,Nervous system disease that weakens muscles.,-1
+D082,Myasthenia Gravis,G70.0,Autoimmune,4,Weakness and rapid fatigue of muscles under voluntary control.,-1
+D083,Guillain-Barre Syndrome,G61.0,Neurological,5,Immune system attacks your nerves.,90
+D084,Meniere's Disease,H81.0,Neurological,3,Inner ear disorder that causes episodes of vertigo.,-1
+D085,Narcolepsy,G47.4,Neurological,3,Chronic sleep disorder characterized by overwhelming daytime drowsiness.,-1
+D086,Endometriosis,N80,Gynecological,3,Tissue similar to the lining of the uterus grows outside it.,-1
+D087,Polycystic Ovary Syndrome,E28.2,Endocrine,2,Hormonal disorder common among women of reproductive age.,-1
+D088,Preeclampsia,O14,Obstetric,5,High blood pressure and protein in urine during pregnancy.,7
+D089,Sepsis,A41,Infectious,5,Life-threatening reaction to an infection.,21
+D090,Meningitis (Bacterial),G00,Infectious,5,Inflammation of brain and spinal cord membranes.,14
+D091,Encephalitis,G04.9,Infectious,5,Inflammation of the brain.,21
+D092,Lactose Intolerance,E73,Metabolic,1,Inability to fully digest sugar in dairy.,-1
+D093,Phenylketonuria,E70.0,Genetic,3,Birth defect that causes an amino acid to build up in the body.,-1
+D094,Yellow Fever,A95,Infectious,5,Viral infection spread by a particular type of mosquito.,14
+D095,Rabies,A82,Infectious,5,Deadly virus spread to people from the saliva of infected animals.,-1
+D096,Sjogren's Syndrome,M35.0,Autoimmune,3,Immune system disorder characterized by dry eyes and mouth.,-1
+D097,Raynaud's Phenomenon,I73.0,Cardiovascular,2,Reduced blood flow to fingers and toes.,-1
+D098,Scleroderma,M34,Autoimmune,4,Chronic hardening and tightening of the skin.,-1
+D099,Sarcoidosis,D86,Autoimmune,3,Growth of tiny collections of inflammatory cells.,-1
+D100,Fibromyalgia,M79.7,Neurological,2,Widespread musculoskeletal pain accompanied by fatigue.,-1
