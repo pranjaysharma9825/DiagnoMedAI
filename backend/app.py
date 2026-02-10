@@ -63,10 +63,14 @@ app = FastAPI(
     lifespan=lifespan
 )
 
-# CORS middleware
+# CORS middleware - Production ready
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "https://diagnomed-ai.vercel.app",  # Production frontend
+        "http://localhost:5173",  # Local development
+        "http://localhost:3000",  # Alternative local port
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -74,6 +78,20 @@ app.add_middleware(
 
 # Mount static files
 app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
+
+
+# ============================================================================
+# Health Check Endpoint (for Render monitoring)
+# ============================================================================
+
+@app.get("/health")
+async def health_check():
+    """Health check endpoint for monitoring services."""
+    return {
+        "status": "healthy",
+        "service": "DiagnoMed AI",
+        "version": "0.2.0"
+    }
 
 
 # ============================================================================
