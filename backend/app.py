@@ -67,11 +67,7 @@ app = FastAPI(
 # CORS middleware - Production ready
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://diagnomed-ai.vercel.app",  # Production frontend
-        "http://localhost:5173",  # Local development
-        "http://localhost:3000",  # Alternative local port
-    ],
+    allow_origins=["*"],  # Allows all origins for easier deployment. Restrict this in production if needed.
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
